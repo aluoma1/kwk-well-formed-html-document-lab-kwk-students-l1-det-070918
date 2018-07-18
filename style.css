@@ -1,0 +1,16 @@
+.navigation {
+  width: 100%;
+  height: 50px;
+  background-color: lightblue;
+}
+
+h1 { 
+  text-align: center;
+  font-size: 400%;
+}
+
+body { 
+  background: 
+url(https://img.huffingtonpost.com/asset/5b4796981900002b00c658a4.jpeg?cache=njwmwlwak0&ops=scalefit_720_noupscale);
+background-size: cover;
+}
